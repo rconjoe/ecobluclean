@@ -1,1 +1,4 @@
 node_modules/
+.nitro/types
+.output
+.tanstack/start/build
